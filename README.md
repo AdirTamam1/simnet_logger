@@ -52,12 +52,6 @@ wlan0     | UP     |   2554357 |   1283584 |    3072 |    1863 | 2/2
 lo        | UP     |     50025 |     49969 |     193 |     190 | 0/0
 ```
 
-## What I Learned
-
-- System programming in C
-- Network interface monitoring concepts  
-- Python data analysis and visualization
-- Integrating C and Python workflows
 
 ---
 
